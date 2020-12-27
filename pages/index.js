@@ -1,5 +1,5 @@
 import Layout from "../components/Layout";
-import Fetch from "isomorphic-unfetch";
+import fetch from "isomorphic-unfetch";
 import Prices from "../components/Prices";
 
 function Index(props) {
